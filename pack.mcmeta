@@ -1,0 +1,22 @@
+{
+	"pack":
+	{
+		"description": "© 2023 by Der Robert",
+		"pack_format": 12
+	},
+	"language":
+	{
+		"hsilgne":
+		{
+			"name": "Hsilgne",
+			"region": "Dnalgne",
+			"bidirectional": false
+		},
+		"unglosh":
+		{
+			"name": "Unglosh",
+			"region": "Unglynd",
+			"bidirectional": false
+		}
+	}
+}
