@@ -38,7 +38,7 @@
 
 <br>
 
-## Windows installation:
+## Windows installation using `git`:
 
 ```
 cd %appdata%\.minecraft\resourcepacks
@@ -48,7 +48,7 @@ git clone https://github.com/DerRobert-28/DerRobertPack.git
 
 <br>
 
-## Linux installation:
+## Linux installation using `git`:
 
 ```
 cd ~\.minecraft\resourcepacks
