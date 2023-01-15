@@ -1,7 +1,8 @@
 # DerRobertPack
 
-A general 32x32 texture pack featuring:
-* an Aether portal look for the Nether dimension portal
+## A general 32x32 texture pack featuring:
+
+* an Aether portal look for the Nether portal
 * classic, old-fashioned textures
 * coins to trade with villagers
 * different looks for chests (e.g. the Lucky Block)
@@ -11,15 +12,15 @@ A general 32x32 texture pack featuring:
 
 <br>
 
-## This resource pack is still work in progress.<br>
+## This resource pack is still work in progress.
 
-This means it may not function as well as it supposed to be.<br>
+This means it may not function as well as it supposed to be.
 
 <br>
 
-## It is created especially for Minecraft Version 1.19.3
+## It is created for Minecraft Version 1.19.3
 
-But it is compatible with some versions below and above,
+Nethertheless, it should be compatible to some versions below and above,<br>
 regardless of whatever Minecraft will tell you.
 
 <br>
@@ -29,7 +30,7 @@ regardless of whatever Minecraft will tell you.
 ```
 cd %appdata%\.minecraft\resourcepacks
 
-git clone https://github.com/DerRobert-28/ScaryMazeVignette.git
+git clone https://github.com/DerRobert-28/DerRobertPack.git
 ```
 
 <br>
@@ -39,7 +40,7 @@ git clone https://github.com/DerRobert-28/ScaryMazeVignette.git
 ```
 cd ~\.minecraft\resourcepacks
 
-git clone https://github.com/DerRobert-28/ScaryMazeVignette.git
+git clone https://github.com/DerRobert-28/DerRobertPack.git
 ```
 
 <br>
@@ -59,4 +60,4 @@ git clone https://github.com/DerRobert-28/ScaryMazeVignette.git
 <br>
 <br>
 
-*© 2023 by Der Robert*
+*&copy; 2023 by Der Robert*
