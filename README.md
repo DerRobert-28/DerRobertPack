@@ -30,11 +30,11 @@
 
 <br>
 
-## It is created for Minecraft Version 1.19.3
+## It is created for Minecraft JE Version 1.19.3
 
 - Nethertheless, it should be compatible to versions below and above.
 
-- Although Minecraft will mistakingly consider it incompatible.
+- Although Minecraft JE will mistakingly consider it incompatible.
 
 <br>
 
